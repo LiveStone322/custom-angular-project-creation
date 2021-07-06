@@ -20,7 +20,7 @@ Where parameters %1, %2 and %3 are:
 | %3 | skip-tests   | true          |
 
 Basically, I use just `ang.bat %name%` and get a modern angular project with scss, strict typing, routing and eslint. 
-If you want to use sass, you should call `ang.bat %name% sass` and `ang.bat %name% scss false` for not skipping tests (yes, you should pass styles too even if you are not changing the deafult value).
+If you want to use sass, you should call `ang.bat %name% sass` and `ang.bat %name% scss false` for not skipping tests (yes, you should pass styles too, even if you don't change the deafult value).
 
 ## Contribution
 Contribution is appreciated since luck of batch knowledge. Would be nice to embody the following features:
