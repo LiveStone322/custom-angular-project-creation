@@ -19,4 +19,9 @@ Where parameters %1, %2 and %3 are:
 | %2 | styles       | scss          |
 | %3 | skip-tests   | true          |
 
-Basically, I use just `ang.bat %1` and get a modern angular project with scss and eslint
+Basically, I use just `ang.bat %1` and get a modern angular project with scss, strict typing, routing and eslint.
+
+## Contribution
+Contribution is appreciated since luck of batch knowledge. Would be nice to embody the following features:
+- using of `--styles`, `--skip-tests` instead of %2, %3 enumeration
+- jest tests setup
