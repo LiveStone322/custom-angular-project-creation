@@ -19,4 +19,4 @@ Where parameters %1, %2 and %3 are:
 | %2 | styles       | scss          |
 | %3 | skip-tests   | true          |
 
-Basically, I use just `ang %1`
+Basically, I use just `ang %1` and get a modern angular project with scss and eslint
