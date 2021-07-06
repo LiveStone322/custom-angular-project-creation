@@ -10,7 +10,7 @@ I made this script to make it easier to create angular projects. Not using batch
 ## Using
 The idea is to use one simple command instead of running the same commands over and over again. I always use scss and skip the tests. You can change this default preferences in the .bat file. Also don't like using default tslint and karma, so I migrated to eslint and removed karma.
 
-Run command `ang [%1 [%2 [%3]]]` inside a folder you want your project to be created 
+Run command `ang [%1 [%2 [%3]]]` inside a folder you want your project to be created.
 Where parameters %1, %2 and %3 are:
 
 |    | meaning      | default value |
